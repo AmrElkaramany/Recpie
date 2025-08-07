@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.row {
+    @apply flex flex-wrap
+}
